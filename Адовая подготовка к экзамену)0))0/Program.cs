@@ -23,7 +23,7 @@ namespace Адовая_подготовка_к_экзамену_0__0
             ////Задание №1: 
             ////Ввести трёхзначное число. Определить - является ли оно перевёртышем.
             //int value;
-            //Console.WriteLine("Введите трёхголовое число");
+            //Console.WriteLine("Введите трёхзначное число");
             //value = Convert.ToInt32(Console.ReadLine());
             //int x1 = value / 100;
             //int x2 = (value % 100) / 10;
